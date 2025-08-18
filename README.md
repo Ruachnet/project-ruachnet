@@ -1,4 +1,5 @@
-# Besu Ethereum Client
+# Harambee governance Blockchain Comunity - Based on Besu Ethereum Client 
+ [![View Project Document](https://img.shields.io/badge/Google%20Docs-View-blue?logo=google-docs)](https://docs.google.com/document/d/10_-sSwHGU4uV7huU4HX2mG8z1eIm5CAx5Q7OjM_CSI8/preview)
  [![CircleCI](https://circleci.com/gh/hyperledger/besu/tree/main.svg?style=svg)](https://circleci.com/gh/hyperledger/besu/tree/main)
  [![CodeQL](https://github.com/hyperledger/besu/actions/workflows/codeql.yml/badge.svg)](https://github.com/hyperledger/besu/actions/workflows/codeql.yml)
  [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3174/badge)](https://bestpractices.coreinfrastructure.org/projects/3174)
