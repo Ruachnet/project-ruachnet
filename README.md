@@ -65,7 +65,7 @@ nc -vz 157.230.72.6 30303
 
 ## Issues 
 
-Besu issues are tracked [in the github issues tab][Besu Issues].
+Besu issues are tracked [in the github issues tab][https://github.com/bdigismat/besu-hgbc].
 See our [guidelines](https://lf-hyperledger.atlassian.net/wiki/spaces/BESU/pages/22154243/Issues) for more details on searching and creating issues.
 
 If you have any questions, queries or comments, [Besu channel on Discord] is the place to find us.
@@ -110,7 +110,7 @@ Besu includes support for running Ethereum reference tests and generating detail
 
 To learn how to run the tests and enable opcode-level JSON tracing for debugging and correctness verification, see the [Reference Test Execution and Tracing Guide](REFERENCE_TESTS.md).
 
-[Besu Issues]: https://github.com/hyperledger/besu/issues
-[Besu User Documentation]: https://besu.hyperledger.org
-[Besu channel on Discord]: https://discord.com/invite/hyperledger
+[Besu Issues]: https://github.com/bdigismat/besu-hgbc/issues
+[Besu User Documentation]: https://docs.google.com/document/d/10_-sSwHGU4uV7huU4HX2mG8z1eIm5CAx5Q7OjM_CSI8/preview
+[Besu channel on Discord]: https://discord.gg/Mjup2t8G
 [Contributing Guidelines]: CONTRIBUTING.md
