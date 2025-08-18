@@ -21,6 +21,26 @@ Besu is an Apache 2.0 licensed, MainNet compatible, Ethereum client written in J
 docker build -t besu-hgbc -f docker/Dockerfile .
 ```
 
+## Testing the network
+### Request Rpc version
+```bash
+curl -X POST https://rpc.anarchtech.dantalion.org -H "Content-Type: application/json" --data '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":1}'
+```
+### Response
+```json
+{"jsonrpc":"2.0","id":1,"result":"0x0"}
+```
+
+## Other network tests
+### Get chain ID
+```bash
+curl -X POST https://rpc.anarchtech.dantalion.org -H "Content-Type: application/json" --data '{"jsonrpc":"2.0","method":"eth_chainId","params":[],"id":1}'
+```
+
+### Get syncing status
+```bash
+curl -X POST https://rpc.anarchtech.dantalion.org -H "Content-Type: application/json" --data '{"jsonrpc":"2.0","method":"eth_syncing","params":[],"id":1}'
+```
 ## Issues 
 
 Besu issues are tracked [in the github issues tab][Besu Issues].
