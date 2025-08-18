@@ -18,6 +18,10 @@ Besu is an Apache 2.0 licensed, MainNet compatible, Ethereum client written in J
 * [How to Contribute to Besu](https://lf-hyperledger.atlassian.net/wiki/spaces/BESU/pages/22156850/How+to+Contribute)
 * [Besu Roadmap & Planning](https://lf-hyperledger.atlassian.net/wiki/spaces/BESU/pages/22154278/Besu+Roadmap+Planning)
 
+## Docker
+```bash
+docker build -t besu-hgbc -f docker/Dockerfile .
+```
 
 ## Issues 
 
