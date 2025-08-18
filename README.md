@@ -1,19 +1,16 @@
 # Harambee governance Blockchain Comunity - Based on Besu Ethereum Client 
  [![View Project Document](https://img.shields.io/badge/Google%20Docs-View-blue?logo=google-docs)](https://docs.google.com/document/d/10_-sSwHGU4uV7huU4HX2mG8z1eIm5CAx5Q7OjM_CSI8/preview)
  [![CircleCI](https://circleci.com/gh/hyperledger/besu/tree/main.svg?style=svg)](https://circleci.com/gh/hyperledger/besu/tree/main)
- [![CodeQL](https://github.com/hyperledger/besu/actions/workflows/codeql.yml/badge.svg)](https://github.com/hyperledger/besu/actions/workflows/codeql.yml)
  [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3174/badge)](https://bestpractices.coreinfrastructure.org/projects/3174)
  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/hyperledger/besu/blob/main/LICENSE)
  [![Discord](https://img.shields.io/discord/905194001349627914?logo=Hyperledger&style=plastic)](https://discord.com/invite/hyperledger)
- [![Twitter Follow](https://img.shields.io/twitter/follow/HyperledgerBesu)](https://twitter.com/HyperledgerBesu)
-
-[Download](https://github.com/hyperledger/besu/releases)
+ [![Follow on X](https://img.shields.io/twitter/follow/cjuma040)](https://twitter.com/cjuma040)
 
 Besu is an Apache 2.0 licensed, MainNet compatible, Ethereum client written in Java.
 
 ## Useful Links
 
-* [Besu User Documentation]
+* [Besu User Documentation](https://img.shields.io/badge/Google%20Docs-View-blue?logo=google-docs)](https://docs.google.com/document/d/10_-sSwHGU4uV7huU4HX2mG8z1eIm5CAx5Q7OjM_CSI8/preview)
 * [Besu Issues]
 * [Besu Wiki](https://lf-hyperledger.atlassian.net/wiki/spaces/BESU/)
 * [How to Contribute to Besu](https://lf-hyperledger.atlassian.net/wiki/spaces/BESU/pages/22156850/How+to+Contribute)
