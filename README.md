@@ -41,6 +41,28 @@ curl -X POST https://rpc.anarchtech.dantalion.org -H "Content-Type: application/
 ```bash
 curl -X POST https://rpc.anarchtech.dantalion.org -H "Content-Type: application/json" --data '{"jsonrpc":"2.0","method":"eth_syncing","params":[],"id":1}'
 ```
+
+### Test peer to peer using web3 library
+```js
+const Web3 = require("web3");
+const web3 = new Web3("https://rpc.anarchtech.dantaion.org");
+
+(async () => {
+  const block = await web3.eth.getBlockNumber();
+  console.log("Current block:", block);
+})();
+```
+
+### Test peer to peer using telnet
+```bash
+telnet 157.230.72.6 30303
+```
+
+### Test peer to peer using web3 library
+```bash
+nc -vz 157.230.72.6 30303
+```
+
 ## Issues 
 
 Besu issues are tracked [in the github issues tab][Besu Issues].
