@@ -19,7 +19,7 @@ Having Github, Discord, and Linux Foundation accounts is necessary for obtaining
 * [Contributing Guidelines]
 
 
-[Besu User Documentation]: https://besu.hyperledger.org
+[Besu User Documentation]: https://docs.google.com/document/d/1AJdiE0uOVFbBSLY-F_WLsKUa6k1yXvi9Y0r3wFJS7mI/preview?tab=t.0#heading=h.pgcavvgqwo3p
 [Besu channel on Discord]: https://discord.gg/Mjup2t8G
 [Contributing Guidelines]: CONTRIBUTING.md
 

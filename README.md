@@ -1,20 +1,16 @@
 # Harambee governance Blockchain Comunity - Based on Besu Ethereum Client 
- [![View Project Document](https://img.shields.io/badge/Google%20Docs-View-blue?logo=google-docs)](https://docs.google.com/document/d/10_-sSwHGU4uV7huU4HX2mG8z1eIm5CAx5Q7OjM_CSI8/preview)
+ [![View Project Document](https://docs.google.com/document/d/1AJdiE0uOVFbBSLY-F_WLsKUa6k1yXvi9Y0r3wFJS7mI/preview)
  [![CircleCI](https://circleci.com/gh/hyperledger/besu/tree/main.svg?style=svg)](https://circleci.com/gh/hyperledger/besu/tree/main)
  [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3174/badge)](https://bestpractices.coreinfrastructure.org/projects/3174)
- [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/hyperledger/besu/blob/main/LICENSE)
+ [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/Ruachnet/project-ruachnet/blob/main/LICENSE)
  [![Discord](https://img.shields.io/discord/905194001349627914?logo=Hyperledger&style=plastic)](https://discord.gg/Mjup2t8G)
- [![Follow on X](https://img.shields.io/twitter/follow/cjuma040)](https://twitter.com/cjuma040)
+ [![Follow on X](https://img.shields.io/twitter/follow/RuachNet254)](https://twitter.com/RuachNet254)
 
 Besu is an Apache 2.0 licensed, MainNet compatible, Ethereum client written in Java.
 
 ## Useful Links
 
-* [Besu User Documentation](https://docs.google.com/document/d/10_-sSwHGU4uV7huU4HX2mG8z1eIm5CAx5Q7OjM_CSI8/preview)
-* [Besu Issues]
-* [Besu Wiki](https://lf-hyperledger.atlassian.net/wiki/spaces/BESU/)
-* [How to Contribute to Besu](https://lf-hyperledger.atlassian.net/wiki/spaces/BESU/pages/22156850/How+to+Contribute)
-* [Besu Roadmap & Planning](https://lf-hyperledger.atlassian.net/wiki/spaces/BESU/pages/22154278/Besu+Roadmap+Planning)
+* [Besu User Documentation](https://docs.google.com/document/d/1AJdiE0uOVFbBSLY-F_WLsKUa6k1yXvi9Y0r3wFJS7mI/preview)
 
 ## Docker
 ```bash
@@ -111,6 +107,6 @@ Besu includes support for running Ethereum reference tests and generating detail
 To learn how to run the tests and enable opcode-level JSON tracing for debugging and correctness verification, see the [Reference Test Execution and Tracing Guide](REFERENCE_TESTS.md).
 
 [Besu Issues]: https://github.com/bdigismat/besu-hgbc/issues
-[Besu User Documentation]: https://docs.google.com/document/d/10_-sSwHGU4uV7huU4HX2mG8z1eIm5CAx5Q7OjM_CSI8/preview
+[Besu User Documentation]: https://docs.google.com/document/d/1AJdiE0uOVFbBSLY-F_WLsKUa6k1yXvi9Y0r3wFJS7mI/preview
 [Besu channel on Discord]: https://discord.gg/Mjup2t8G
 [Contributing Guidelines]: CONTRIBUTING.md

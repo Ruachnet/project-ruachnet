@@ -35,7 +35,7 @@ For **quick questions or sensitive matters**, please reach us via the **official
 
 ---
 
-## 📖 How to Contribute
+## How to Contribute
 
 There are many ways you can contribute to Ruachnet:
 
@@ -52,7 +52,7 @@ Before contributing code, ensure you:
 
 ---
 
-## 🔄 First Contribution Workflow
+## First Contribution Workflow
 
 Here’s a step-by-step guide to making your first contribution:
 
