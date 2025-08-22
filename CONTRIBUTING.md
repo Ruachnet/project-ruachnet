@@ -22,8 +22,6 @@ Having the following accounts is necessary for contributing code/issues to Besu.
 * [Suggesting Enhancements](https://wiki.hyperledger.org/display/BESU/Suggesting+Enhancements)
 * [Pull Requests](https://wiki.hyperledger.org/display/BESU/Pull+Requests)
 * [Code Reviews](https://wiki.hyperledger.org/display/BESU/Code+Reviews)
-
-
 * [Security contributions](https://wiki.hyperledger.org/display/BESU/Security)
 
 ### Other important information
