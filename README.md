@@ -1,4 +1,4 @@
-# Harambee governance Blockchain Comunity - Based on Besu Ethereum Client 
+# Ruachnet Governance Blockchain Comunity - Based on Besu Ethereum Client 
  [![View Project Document](https://docs.google.com/document/d/1AJdiE0uOVFbBSLY-F_WLsKUa6k1yXvi9Y0r3wFJS7mI/preview)
  [![CircleCI](https://circleci.com/gh/hyperledger/besu/tree/main.svg?style=svg)](https://circleci.com/gh/hyperledger/besu/tree/main)
  [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3174/badge)](https://bestpractices.coreinfrastructure.org/projects/3174)
